@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ASICSFont3.0-Bold.ttf",
+      "sha1": "0149ad5f913aefd963584e86092b01eb7cb796fb"
+    },
+    {
+      "path": "src/assets/fonts/ASICSFont3.0-BoldItalic.ttf",
+      "sha1": "b27b9b5a95f328d528e46e8d7e2468e1e38de310"
+    },
+    {
+      "path": "src/assets/fonts/ASICSFont3.0-Italic.ttf",
+      "sha1": "9292815c57db5ed678072ad9254431b3a2a1d3c1"
+    },
+    {
+      "path": "src/assets/fonts/ASICSFont3.0-Regular.ttf",
+      "sha1": "06c79cfc33e5fa7c41c12a33128ab15759101368"
+    }
+  ]
+}
